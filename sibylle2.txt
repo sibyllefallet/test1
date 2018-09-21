@@ -1,1 +1,2 @@
 This is the second files
+And we can add some text to this second file.
