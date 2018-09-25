@@ -13,3 +13,5 @@ y = awgn(x,20);
 
 figure
 plot(t,x,t,y);
+
+% This is a new modification
